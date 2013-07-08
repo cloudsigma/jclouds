@@ -33,6 +33,8 @@
     <module>gogrid</module>
     <module>cloudsigma-zrh</module>
     <module>cloudsigma-lvs</module>
+    <module>cloudsigma2-zrh</module>
+    <module>cloudsigma2-lvs</module>
     <module>azureblob</module>
     <module>aws-s3</module>
     <module>aws-ec2</module>
